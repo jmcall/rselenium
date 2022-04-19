@@ -1,2 +1,4 @@
 # rselenium
-Template for RSelenium 
+Template for RSelenium using Selenium Docker.
+
+https://hub.docker.com/u/selenium/
